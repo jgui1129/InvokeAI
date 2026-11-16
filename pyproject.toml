@@ -71,7 +71,7 @@ dependencies = [
   'pyperclip',
   "pyreadline3",
   "python-multipart==0.0.6",
-  "pytorch-lightning==1.7.7",
+  "pytorch-lightning==2.6.1",
   "realesrgan",
   "requests==2.28.2",
   "rich~=13.3",
